@@ -27,3 +27,16 @@
 </div>
 
 ###
+
+<h3 align="center">🐣 Contact Me 🐣</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=hyeonhaeju@gmail.com&logo=gmail&label=%EC%9D%B4%EB%A9%94%EC%9D%BC&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://velog.io/@hyeonhaeju" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
