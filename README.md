@@ -1,8 +1,14 @@
-<h1 align="center">👩‍💻 About me</h1>
+<h1 align="left">👩‍💻 About me</h1>
 
 ###
 
 <h6 align="center">✨ 게임 속 모든 순간을 특별하게 만드는 UI/UX 개발자.</h6>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
