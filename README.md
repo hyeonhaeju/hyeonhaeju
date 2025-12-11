@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=hyeonhaeju@gmail.com&logo=gmail&label=%EC%9D%B4%EB%A9%94%EC%9D%BC&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <a href="https://velog.io/@hyeonhaeju/posts" target="_blank">
-    <img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=velog&logoColor=white" height="25" alt="velog"/>
+    <img src="https://img.shields.io/static/v1?label=%EB%B2%A8%EB%A1%9C%EA%B7%B8&message=TechBlog&color=20C997&logo=velog&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="velog"/>
   </a>
 </div>
 
